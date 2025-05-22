@@ -1,6 +1,12 @@
 # dice_roller
 
-A new Flutter project.
+A new Flutter project for Learn the fundamentals of Flutter basics. 
+
+Udemy Tutorial - A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps[2025 Edition] 
+- https://www.udemy.com/share/1013o43@QM5Z9ALgUAC3iCn1GhON1AwwSBkikVXNXku8NiGO2-awVWzYXStTnF1z1Vtg6jKSdg==/
+
+![image](https://github.com/user-attachments/assets/3965832d-4684-4a71-8202-c0986ee812f6)
+
 
 ## Getting Started
 
