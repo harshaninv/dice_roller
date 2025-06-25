@@ -12,6 +12,6 @@ web/** linguist-vendored
 *.c linguist-vendored
 
 # Ignore Gradle/HTML/CMake-related files
-*.html linguist-vendored
+*.html linguist-detectable=false
 *.gradle linguist-vendored
-*.cmake linguist-vendored
+*.cmake linguist-detectable=false
